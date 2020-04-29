@@ -6,6 +6,6 @@ Link to the lab: [here](https://www.qwiklabs.com/focuses/5834?catalog_rank=%7B%2
 Video link to the demo: https://www.youtube.com/watch?v=07JNFLR2HFs
 
 Sample Output of the Lab below:
-[Output Demo](https://github.com/srishtis/Distributed-Image-Processing/blob/master/DIP%20Lab.PNG)
+![Output Demo](https://github.com/srishtis/Distributed-Image-Processing/blob/master/DIP%20Lab.PNG)
 
 
